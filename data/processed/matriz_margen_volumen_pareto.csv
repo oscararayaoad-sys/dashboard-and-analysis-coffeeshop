@@ -1,0 +1,27 @@
+Producto_Categoria,Producto_Detail,Ranking,Unidades_Vendidas,Venta_Total,Costo_Total,Ganancia_Total,Margen_%,Clasificacion_MV,Clasificacion_Pareto,%_Ganancia_Individual,%_Ganancia_Acumulada
+Sandwicheria,Croissant Mechada Queso,1,824,4688560,1565600,3122960,66.60808435852373,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase A (Top 80% Ganancia),6.592727809318053,6.592727809318053
+Sandwicheria,Sandwich Caprese Ciabatta,2,873,4356270,1396800,2959470,67.93587174348697,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase A (Top 80% Ganancia),6.247592082461029,12.840319891779082
+Sandwicheria,Sándwich Mechada Queso,3,787,4320630,1416600,2904030,67.21311475409836,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),6.130555415405226,18.970875307184308
+Sandwicheria,Croissant Caprese,4,796,3812840,1194000,2618840,68.6847599164927,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),5.528504782691577,24.499380089875885
+Sandwicheria,Croissant Jamón Queso,5,819,3685500,1146600,2538900,68.88888888888889,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase A (Top 80% Ganancia),5.359747366305558,29.859127456181444
+Cafés,Mocaccino,6,829,2818600,746100,2072500,73.52941176470588,💎 Ganadores (Alto Vol / Alto Margen),Clase A (Top 80% Ganancia),4.375153183137685,34.23428063931913
+Sandwicheria,Sándwich Jamón-Queso,7,797,3028600,956400,2072200,68.42105263157895,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),4.374519867839764,38.6088005071589
+Cafés,Té Matcha Latte,8,777,2797200,738150,2059050,73.61111111111111,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase A (Top 80% Ganancia),4.346759547280892,42.955560054439786
+Cafés,Capuccino,9,861,2669100,688800,1980300,74.19354838709677,💎 Ganadores (Alto Vol / Alto Margen),Clase A (Top 80% Ganancia),4.180514281576626,47.136074336016414
+Repostería,Waffle Con Manjar,10,841,2691200,756900,1934300,71.875,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase A (Top 80% Ganancia),4.083405935895403,51.21948027191182
+Cafés,Café Latte,11,798,2553600,678300,1875300,73.4375,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase A (Top 80% Ganancia),3.9588539273042707,55.17833419921609
+Bebestibles,Jugo De Arándano,12,867,2687700,823650,1864050,69.35483870967742,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase A (Top 80% Ganancia),3.935104603632232,59.11343880284832
+Cafés,Flat White,13,813,2439000,650400,1788600,73.33333333333333,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase A (Top 80% Ganancia),3.7758258062050967,62.88926460905342
+Bebestibles,Jugo De Piña,14,763,2281370,686700,1594670,69.89966555183946,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),3.3664296871190214,66.25569429617244
+Bebestibles,Jugo Naranja Natural,15,743,2221570,668700,1552870,69.89966555183946,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),3.278187755608693,69.53388205178113
+Cafés,Té Blanco,16,835,1920500,375750,1544750,80.43478260869566,💎 Ganadores (Alto Vol / Alto Margen),Clase A (Top 80% Ganancia),3.2610460215449644,72.7949280733261
+Cafés,Espresso Doble,17,812,2021880,487200,1534680,75.90361445783132,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase A (Top 80% Ganancia),3.2397877380447486,76.03471581137086
+Bebestibles,Leche Con Plátano,18,790,2133000,632000,1501000,70.37037037037037,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase A (Top 80% Ganancia),3.1686875405981496,79.203403351969
+Cafés,Té Negro,19,851,1787100,340400,1446700,80.95238095238095,💎 Ganadores (Alto Vol / Alto Margen),Clase B (Siguiente 15%),3.0540574716744455,82.25746082364344
+Cafés,Té Verde,20,825,1732500,330000,1402500,80.95238095238095,💎 Ganadores (Alto Vol / Alto Margen),Clase B (Siguiente 15%),2.960749017780749,85.2182098414242
+Cafés,Americano,21,785,1727000,392500,1334500,77.27272727272727,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase B (Siguiente 15%),2.817197550251986,88.03540739167619
+Repostería,Donas Rellenas,22,809,1779800,485400,1294400,72.72727272727273,⚠️ Destructores de Valor (Bajo Vol / Bajo Margen),Clase B (Siguiente 15%),2.732544405429876,90.76795179710606
+Repostería,Muffin De Vainilla Natural,23,806,1692600,443300,1249300,73.80952380952381,👑 Joyas Ocultas (Bajo Vol / Alto Margen),Clase B (Siguiente 15%),2.637336005642417,93.40528780274848
+Repostería,Muffin De Arándanos,24,825,1732500,495000,1237500,71.42857142857143,🐎 Caballos de Batalla (Alto Vol / Bajo Margen),Clase C (Último 5%),2.61242560392419,96.01771340667267
+Repostería,Medialuna Manjar,25,823,1316800,329200,987600,75.0,💎 Ganadores (Alto Vol / Alto Margen),Clase C (Último 5%),2.084873960755984,98.10258736742865
+Repostería,Medialuna Dulce,26,856,1198400,299600,898800,75.0,💎 Ganadores (Alto Vol / Alto Margen),Clase C (Último 5%),1.8974126325713634,100.00000000000001
