@@ -132,4 +132,4 @@ El análisis exploratorio reveló patrones críticos para la toma de decisiones 
 ## 10. Licencia y Créditos / Autor
 
 * **Licencia:** Distribuido bajo la Licencia MIT. Consulta `LICENSE` para más información.
-* **Autor:** Óscar Araya ([@oscararayaoad-sys](https://github.com/oscararayaoad-sys))
+* **Autor:** Oscar Araya ([@oscararayaoad-sys](https://github.com/oscararayaoad-sys))

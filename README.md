@@ -132,4 +132,4 @@ Exploratory data analysis revealed critical insights for commercial decision-mak
 ## 10. License and Credits / Author
 
 * **License:** Distributed under the MIT License. See `LICENSE` for details.
-* **Author:** Óscar Araya ([@oscararayaoad-sys](https://github.com/oscararayaoad-sys))
+* **Author:** Oscar Araya ([@oscararayaoad-sys](https://github.com/oscararayaoad-sys))
