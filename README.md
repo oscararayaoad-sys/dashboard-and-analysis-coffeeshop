@@ -119,7 +119,7 @@ Exploratory data analysis revealed critical insights for commercial decision-mak
 
 | BCG Matrix (Portfolio) | Heatmap: Hour vs. Day |
 | :---: | :---: |
-| ![BCG Matrix](assets/grafico_6.ppg) | ![Demand by Hour and Day](assets/grafico_1.jpg) |
+| ![BCG Matrix](assets/grafico_6.png) | ![Demand by Hour and Day](assets/grafico_1.png) |
 | **Strategic Segmentation:** Classification of products by unit margin and sales volume (*Stars*, *Workhorses*, *Question Marks*, and *Dogs*). | **Peak Hours:** Clear identification of high-demand times (notably 09:00 AM every day) to optimize staff scheduling. |
 
 | Service Type by Category | Preferred Payment Methods |

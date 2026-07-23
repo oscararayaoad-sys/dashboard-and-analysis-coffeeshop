@@ -119,7 +119,7 @@ El análisis exploratorio reveló patrones críticos para la toma de decisiones 
 
 | Matriz BCG (Portafolio) | Mapa de Calor: Hora vs Día |
 | :---: | :---: |
-| ![Matriz BCG](assets/grafico_6.ppg) | ![Demanda por Hora y Día](assets/grafico_1.jpg) |
+| ![Matriz BCG](assets/grafico_6.png) | ![Demanda por Hora y Día](assets/grafico_1.png) |
 | **Segmentación Estratégica:** Clasificación de productos según margen e ingresos (*Estrellas*, *Caballos de batalla*, *Interrogantes* y *Perros*). | **Horas Pico:** Identificación clara de horas de alta demanda (especialmente a las 09:00 hrs todos los días) para optimizar turnos de personal. |
 
 | Tipo de Servicio por Categoría | Métodos de Pago Preferidos |
