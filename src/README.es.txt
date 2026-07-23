@@ -1,0 +1,1 @@
+Los conjuntos de datos utilizados en este proyecto fueron provistos directamente por la dirección de la empresa y contienen información estratégica y sensible.
